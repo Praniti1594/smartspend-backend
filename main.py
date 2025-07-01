@@ -87,6 +87,9 @@ def append_to_expense_log(date, desc, amount, category, email=None):
     }
     collection.insert_one(mongo_doc)
 
+@app.get("/")
+def root():
+    return {"message": "SmartSpend backend is working!"}
 
 @app.get("/sync-csv-to-mongo")
 def sync_csv():
