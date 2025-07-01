@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pymongo
+certifi
+python-dotenv
+pytesseract
+opencv-python
+pandas
+pillow
+numpy
+joblib
+scikit-learn
+spacy
+bcrypt

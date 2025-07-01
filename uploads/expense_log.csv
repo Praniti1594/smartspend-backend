@@ -1,0 +1,195 @@
+Date,Item,Amount,Category
+01/04/2023,Grocery Store,55.3,Groceries
+02/04/2023,Bus Ticket,1.5,Transport
+01/04/2023,Monthly Rent,1000.0,Rent
+02/04/2023,Coffee,2.8,Other
+03/04/2023,Electricity Bill,45.0,Utilities
+03/04/2023,Metro Pass,20.0,Transport
+04/04/2023,Supermarket,62.7,Groceries
+04/04/2023,ApplePie,3.0,Food
+05/04/2023,Lunch Out,12.5,Food
+06/04/2023,Gas Refill,40.0,Utilities
+07/04/2023,Train Ticket,15.0,Transport
+07/04/2023,Coffee Beans,7.5,Other
+07/04/2023,shopping,700.5,Other
+07/04/2023,electronic gadgets,500.5,Other
+08/04/2023,Farmer's Market,34.2,Groceries
+09/04/2023,Movie Ticket,10.0,Other
+10/04/2023,Dinner,20.5,Food
+11/04/2023,Grocery Store,49.8,Groceries
+12/04/2023,Cab Ride,8.2,Transport
+13/04/2023,WiFi Bill,25.0,Utilities
+14/04/2023,Bakery,6.7,Food
+15/04/2023,Supermarket,53.0,Groceries
+16/04/2023,Bus Pass,15.0,Transport
+17/04/2023,Laundry,12.0,Other
+18/04/2023,Mobile Recharge,10.0,Utilities
+19/04/2023,Lunch,9.5,Food
+20/04/2023,Train Ticket,18.0,Transport
+21/04/2023,Grocery Store,60.0,Groceries
+22/04/2023,Cinema,12.0,Other
+23/04/2023,Dinner Out,24.5,Food
+24/04/2023,Water Bill,18.0,Utilities
+25/04/2023,Cab Ride,9.0,Transport
+26/04/2023,Mini Mart,35.6,Groceries
+27/04/2023,Coffee,3.0,Other
+28/04/2023,Brownies,3.5,Food
+29/04/2023,Train Ticket,17.0,Transport
+30/04/2023,Grocery Store,52.4,Groceries
+04/05/2023,Apple Pie,3.0,Food
+12/05/2023,Brownies,3.5,Food
+01/06/2023,Uber Ride,120.0,Transport
+03/06/2023,burger,8.0,Food
+11/06/2023,earphones,300.0,Other
+11/06/2023,Manicure,200.0,Other
+11/06/2023,sofa,800.0,Utility
+15/06/2023,Groceries,80.0,Groceries
+04/10/2017,qappuccino,3.5,Food
+04/10/2017,ApplePie,3.0,Food
+04/10/2017,Brownies,3.5,Food
+04/10/2017,Total USD,10.0,Other
+04/10/2017,qappuccino,3.5,Food
+04/10/2017,ApplePie,3.0,Food
+04/10/2017,Brownies,3.5,Food
+04/10/2017,Total USD,10.0,Other
+2023-02-11,Domino's Pizza,450,Food
+2023-03-11,Uber,100,Transport
+2023-04-11,milk,200,Groceries
+2023-05-11, perfume,450,Food
+2023-05-11,purse,450,Food
+2023-05-11,purse,450,Clothing
+04/10/2017,qappuccino,3.5,Clothing
+04/10/2017,ApplePie,3.0,Clothing
+04/10/2017,Brownies,3.5,Clothing
+04/10/2017,Total USD,10.0,Other
+2023-05-11,purse,450,Clothing
+2023-05-11,purse,450,Clothing
+2023-05-11,purse,450,Clothing
+2023-05-11,purse,450,Clothing
+04/10/2017,qappuccino,3.5,Clothing
+04/10/2017,ApplePie,3.0,Clothing
+04/10/2017,Brownies,3.5,Clothing
+04/10/2017,Total USD,10.0,Other
+2023-05-11,purse,450,Clothing
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal9@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal9@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal9@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal9@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal9@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal9@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal9@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal9@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal9@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal9@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal9@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal9@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal9@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal9@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Clothing,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Clothing,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Food,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Food,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Food,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,Total USD,10.0,Other,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Food,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Food,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+2023-05-11,purse,450,Clothing,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Food,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,qappuccino,3.5,Food,pranitikubal19@gmail.com
+04/10/2017,ApplePie,3.0,Food,pranitikubal19@gmail.com
+04/10/2017,Brownies,3.5,Food,pranitikubal19@gmail.com
