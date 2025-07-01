@@ -3,6 +3,10 @@ import pandas as pd
 import os
 from pymongo import MongoClient
 import certifi
+from dotenv import load_dotenv
+
+
+load_dotenv()  # Load from .env file
 
 MONGO_URI = os.getenv("MONGO_URI")
 
