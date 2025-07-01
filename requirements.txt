@@ -13,3 +13,5 @@ joblib
 scikit-learn
 spacy
 bcrypt
+email-validator
+
