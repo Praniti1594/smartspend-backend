@@ -17,13 +17,12 @@ from fastapi.responses import JSONResponse
 from fastapi.encoders import jsonable_encoder
 from fastapi import HTTPException
 from bson.objectid import ObjectId
-from routes import gemini
 from fastapi import Query
 from dotenv import load_dotenv
 
 
 load_dotenv()  # Load from .env file
-gemini_key = os.getenv("GEMINI_API_KEY")
+
 
 vectorizer = joblib.load("vectorizer.pkl")
 model = joblib.load("classifier.pkl")
@@ -56,7 +55,6 @@ def serialize_expense(exp):
 
 app = FastAPI()
 app.include_router(analytics.router)
-app.include_router(gemini.router)
 app.include_router(auth.router)
 
 
