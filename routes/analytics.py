@@ -4,7 +4,8 @@ import os
 from pymongo import MongoClient
 import certifi
 
-MONGO_URI = "mongodb+srv://pranitikubal9:WRHrz8m32NqaFMiN@cluster0.c6as14a.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = os.getenv("MONGO_URI")
+
 client = MongoClient(MONGO_URI, tlsCAFile=certifi.where())
 db = client["expense_tracker"]
 collection = db["expenses"]
